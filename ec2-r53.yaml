@@ -1,4 +1,4 @@
-- name: Creatae Ec2 and R53 records
+- name: Create Ec2 and R53 records
   hosts: local
   connection: local
   vars:
